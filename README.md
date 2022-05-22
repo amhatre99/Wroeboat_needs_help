@@ -1,7 +1,7 @@
 # 3D Cylinder Estimation
 
-Greetings! I apologize that I didn't comment my code. But I at least wrote a readme, and the stuff about the code in our report, so that's what you get. If something doesn't make sense, feel free to email me at [steph@snevets.institute](mailto://steph@snevets.institute). Yes that email actually works. One of my friends purchased that domain for fun.
-
+ Added a uniform sampling module for polygons to repo by steph@snevets.institute.
+ Credit for original repo: steph@snevets.institute
 
 ## Installation
 
